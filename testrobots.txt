@@ -3,27 +3,27 @@
 <head>
 <meta charset="UTF-8"/>
 <title>List of most visited websites - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"4afe5cfb-dcab-45bb-8c34-9fbce5746382","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_most_visited_websites","wgTitle":"List of most visited websites","wgCurRevisionId":1104044269,"wgRevisionId":1104044269,"wgArticleId":37716939,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Wikipedia indefinitely semi-protected pages","Dynamic lists","Articles containing potentially dated statements from May 2022","All articles containing potentially dated statements",
-"Lists of Internet-related superlatives","Lists of most popular media","Lists of websites"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_most_visited_websites","wgRelevantArticleId":37716939,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":8000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":["Wikipedia","MediaWiki","Wikimedia_Foundation","Future","Design","Galaxy","James_Webb_Space_Telescope","Evolution","Typography","Magnifying_glass","Preview_(computing)"],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,
-"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q6629082","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader"
-,"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"bedbad88-e06e-4360-8cf4-c39ec75219e1","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_most_visited_websites","wgTitle":"List of most visited websites","wgCurRevisionId":1104044269,"wgRevisionId":1104044269,"wgArticleId":37716939,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Wikipedia indefinitely semi-protected pages","Dynamic lists","Articles containing potentially dated statements from May 2022","All articles containing potentially dated statements",
+"Lists of Internet-related superlatives","Lists of most popular media","Lists of websites"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_most_visited_websites","wgRelevantArticleId":37716939,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":8000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage",
+"wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q6629082","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.39.0-wmf.25"/>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.26"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
 <meta name="format-detection" content="telephone=no"/>
-<meta name="viewport" content="width=1000, initial-scale=1.0"/>
+<meta name="viewport" content="width=1000"/>
 <meta property="og:title" content="List of most visited websites - Wikipedia"/>
 <meta property="og:type" content="website"/>
 <link rel="preconnect" href="//upload.wikimedia.org"/>
 <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/List_of_most_visited_websites"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
@@ -39,7 +39,7 @@
 	<div class="mw-indicators">
 	<div id="mw-indicator-pp-default" class="mw-indicator"><div class="mw-parser-output"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div></div>
 	</div>
-	<h1 id="firstHeading" class="firstHeading mw-first-heading">List of most visited websites</h1>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">List of most visited websites</span></h1>
 	<div id="bodyContent" class="vector-body">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 		<div id="contentSub"></div>
@@ -630,42 +630,42 @@
 <style data-mw-deduplicate="TemplateStyles:r1093522707">.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;justify-content:center;align-items:baseline}.mw-parser-output .portal-bar-bordered{padding:0 2em;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em auto 0}.mw-parser-output .portal-bar-related{font-size:100%;justify-content:flex-start}.mw-parser-output .portal-bar-unbordered{padding:0 1.7em;margin-left:0}.mw-parser-output .portal-bar-header{margin:0 1em 0 0.5em;flex:0 0 auto;min-height:24px}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;flex:0 1 auto;padding:0.15em 0;column-gap:1em;align-items:baseline}.mw-parser-output .portal-bar-content-related{}.mw-parser-output .portal-bar-item{display:inline-block;margin:0.15em 0.2em;min-height:24px;line-height:24px}@media screen and (max-width:768px){.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;flex-flow:column wrap;align-items:baseline}.mw-parser-output .portal-bar-header{text-align:center;flex:0;padding-left:0.5em;margin:0 auto}.mw-parser-output .portal-bar-related{font-size:100%;align-items:flex-start}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:center;flex:0;column-gap:1em;border-top:1px solid #a2a9b1;margin:0 auto}.mw-parser-output .portal-bar-content-related{border-top:none;margin:0}}.mw-parser-output .navbox+link+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .navbox+style+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .portal-bar+.navbox-styles+.navbox{margin-top:-1px}</style><div class="portal-bar noprint metadata noviewer portal-bar-bordered" role="navigation" aria-label="Portals"><span class="portal-bar-header"><a href="/wiki/Wikipedia:Contents/Portals" title="Wikipedia:Contents/Portals">Portals</a>:</span><div class="portal-bar-content"><span class="portal-bar-item"><a href="/wiki/File:Crystal_Clear_app_linneighborhood.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/19px-Crystal_Clear_app_linneighborhood.svg.png" decoding="async" width="19" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/29px-Crystal_Clear_app_linneighborhood.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/38px-Crystal_Clear_app_linneighborhood.svg.png 2x" data-file-width="407" data-file-height="407" /></a>&#160;<a href="/wiki/Portal:Internet" title="Portal:Internet">Internet</a></span><span class="portal-bar-item"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Text-x-generic.svg/19px-Text-x-generic.svg.png" decoding="async" width="19" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Text-x-generic.svg/29px-Text-x-generic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Text-x-generic.svg/38px-Text-x-generic.svg.png 2x" data-file-width="48" data-file-height="48" />&#160;<a href="/wiki/Portal:Lists" class="mw-redirect" title="Portal:Lists">Lists</a></span></div></div>
 <!-- 
 NewPP limit report
-Parsed by mw1407
-Cached time: 20220818195906
+Parsed by mw1419
+Cached time: 20220901095832
 Cache expiry: 1814400
 Reduced expiry: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.487 seconds
-Real time usage: 0.596 seconds
-Preprocessor visited node count: 8158/1000000
-Post‐expand include size: 53561/2097152 bytes
+CPU time usage: 0.444 seconds
+Real time usage: 0.532 seconds
+Preprocessor visited node count: 8170/1000000
+Post‐expand include size: 53619/2097152 bytes
 Template argument size: 12744/2097152 bytes
 Highest expansion depth: 21/100
 Expensive parser function count: 5/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 5908/5000000 bytes
-Lua time usage: 0.183/10.000 seconds
-Lua memory usage: 3216408/52428800 bytes
+Lua time usage: 0.169/10.000 seconds
+Lua memory usage: 3234433/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  460.931      1 -total
- 29.40%  135.514     50 Template:Flagcountry
- 22.31%  102.845      1 Template:Reflist
- 19.16%   88.327      1 Template:Cite_web
- 14.37%   66.231      1 Template:Short_description
-  9.69%   44.667      1 Template:Pp-semi-indef
-  8.66%   39.939     50 Template:Flagcountry/core
-  7.78%   35.867      2 Template:As_of
-  7.56%   34.840     30 Template:Country_data_United_States
-  7.24%   33.363      1 Template:Portalbar
+100.00%  432.672      1 -total
+ 33.60%  145.375     50 Template:Flagcountry
+ 20.02%   86.617      1 Template:Reflist
+ 17.34%   75.025      1 Template:Cite_web
+ 13.88%   60.055      1 Template:Short_description
+ 10.38%   44.909     50 Template:Flagcountry/core
+  9.80%   42.411      1 Template:Pp-semi-indef
+  8.74%   37.827     30 Template:Country_data_United_States
+  7.97%   34.481      2 Template:Pagetype
+  7.05%   30.520      1 Template:Portalbar
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:37716939-0!canonical and timestamp 20220818195905 and revision id 1104044269.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37716939-0!canonical and timestamp 20220901095832 and revision id 1104044269.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_most_visited_websites&amp;oldid=1104044269">https://en.wikipedia.org/w/index.php?title=List_of_most_visited_websites&amp;oldid=1104044269</a>"</div></div>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_most_visited_websites&amp;oldid=1104044269">https://en.wikipedia.org/w/index.php?title=List_of_most_visited_websites&amp;oldid=1104044269</a>"</div></div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_Internet-related_superlatives" title="Category:Lists of Internet-related superlatives">Lists of Internet-related superlatives</a></li><li><a href="/wiki/Category:Lists_of_most_popular_media" title="Category:Lists of most popular media">Lists of most popular media</a></li><li><a href="/wiki/Category:Lists_of_websites" title="Category:Lists of websites">Lists of websites</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_semi-protected_pages" title="Category:Wikipedia indefinitely semi-protected pages">Wikipedia indefinitely semi-protected pages</a></li><li><a href="/wiki/Category:Dynamic_lists" title="Category:Dynamic lists">Dynamic lists</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_May_2022" title="Category:Articles containing potentially dated statements from May 2022">Articles containing potentially dated statements from May 2022</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>
 	</div>
 </div>
@@ -922,8 +922,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 
 </footer>
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.487","walltime":"0.596","ppvisitednodes":{"value":8158,"limit":1000000},"postexpandincludesize":{"value":53561,"limit":2097152},"templateargumentsize":{"value":12744,"limit":2097152},"expansiondepth":{"value":21,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5908,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  460.931      1 -total"," 29.40%  135.514     50 Template:Flagcountry"," 22.31%  102.845      1 Template:Reflist"," 19.16%   88.327      1 Template:Cite_web"," 14.37%   66.231      1 Template:Short_description","  9.69%   44.667      1 Template:Pp-semi-indef","  8.66%   39.939     50 Template:Flagcountry/core","  7.78%   35.867      2 Template:As_of","  7.56%   34.840     30 Template:Country_data_United_States","  7.24%   33.363      1 Template:Portalbar"]},"scribunto":{"limitreport-timeusage":{"value":"0.183","limit":"10.000"},"limitreport-memusage":{"value":3216408,"limit":52428800}},"cachereport":{"origin":"mw1407","timestamp":"20220818195906","ttl":1814400,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.444","walltime":"0.532","ppvisitednodes":{"value":8170,"limit":1000000},"postexpandincludesize":{"value":53619,"limit":2097152},"templateargumentsize":{"value":12744,"limit":2097152},"expansiondepth":{"value":21,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5908,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  432.672      1 -total"," 33.60%  145.375     50 Template:Flagcountry"," 20.02%   86.617      1 Template:Reflist"," 17.34%   75.025      1 Template:Cite_web"," 13.88%   60.055      1 Template:Short_description"," 10.38%   44.909     50 Template:Flagcountry/core","  9.80%   42.411      1 Template:Pp-semi-indef","  8.74%   37.827     30 Template:Country_data_United_States","  7.97%   34.481      2 Template:Pagetype","  7.05%   30.520      1 Template:Portalbar"]},"scribunto":{"limitreport-timeusage":{"value":"0.169","limit":"10.000"},"limitreport-memusage":{"value":3234433,"limit":52428800}},"cachereport":{"origin":"mw1419","timestamp":"20220901095832","ttl":1814400,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of most visited websites","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_most_visited_websites","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6629082","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6629082","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-11-22T20:19:37Z","dateModified":"2022-08-12T07:19:20Z","headline":"Wikimedia list article"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of most visited websites","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_most_visited_websites","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6629082","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6629082","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-11-22T20:19:37Z","dateModified":"2022-08-12T07:19:20Z","headline":"Wikimedia list article"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1411"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1391"});});</script>
 </body>
 </html>
