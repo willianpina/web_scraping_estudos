@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be279ce1-3058-43e0-9054-a6150ea815b6" name="Changes" comment="ok">
-      <change afterPath="$PROJECT_DIR$/8. Limpando dados sujos.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. Lendo documentos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7. Lendo documentos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Capítulo 3 - Usando LXML, XPath e Seletores CSS-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Capítulo 3 - Usando LXML, XPath e Seletores CSS-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capítulo 3 - Usando LXML, XPath e Seletores CSS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Capítulo 3 - Usando LXML, XPath e Seletores CSS.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
