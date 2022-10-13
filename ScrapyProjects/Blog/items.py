@@ -13,5 +13,3 @@ class QuotesItem(scrapy.Item):
     tags = scrapy.Field()
     author = scrapy.Field()
     author_link = scrapy.Field()
-
-    pass

@@ -1,5 +1,5 @@
 import scrapy
-from ScrapyProjects.Blog.Blog.items import QuotesItem
+from ScrapyProjects.Blog.items import QuotesItem
 
 
 class QuotesSpider(scrapy.Spider):
@@ -24,3 +24,13 @@ class QuotesSpider(scrapy.Spider):
             if len(item['author_link']) > 0:
                 item['author_link'] = 'https://quotes.toscrape.com'+item['author_link']
             yield item
+
+            # Usando CSS
+            nextPage = response.css("ul.pager > li.next > a::attr(href)").extract_first()
+
+            if nextPage:
+                print(f"Próxima URL da página: {nextPage}")
+                # próxima página obtida e aí podemos usa-la.
+                yield scrapy.Request('https://quotes.toscrape.com'+nextPage, callback=self.parse)
+        print("Completado")
+
