@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be279ce1-3058-43e0-9054-a6150ea815b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Capítulo 6 - Trabalhando com Segurança na Web.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capítulo 7 - Extração de dados usando API.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capítulo 8 - Usando Selenium para raspar a Web.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capítulo 9 - Usando RegEx para extrair dados.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capítulo 5 - Webscraping usando Scrapy e Beautiful Soup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Capítulo 5 - Webscraping usando Scrapy e Beautiful Soup.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyProjects/Blog/Blog/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyProjects/Blog/Blog/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyProjects/Blog/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyProjects/Blog/Blog/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyProjects/Blog/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyProjects/Blog/Blog/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyProjects/Blog/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyProjects/Blog/Blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyProjects/Blog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyProjects/Blog/Blog/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyProjects/Blog/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyProjects/Blog/Blog/spiders/quotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyProjects/Blog/spiders/quotes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyProjects/Blog/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyProjects/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capítulo 6 - Trabalhando com Segurança na Web.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Capítulo 6 - Trabalhando com Segurança na Web.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
